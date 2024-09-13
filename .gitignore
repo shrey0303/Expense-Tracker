@@ -1,0 +1,19 @@
+### Project Files ###
+datasets/*
+!preformatted.csv
+!indexed_preformatted.csv
+!trans.asc
+
+### Python ###
+*.pyc
+
+### VisualStudioCode ###
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+### VisualStudioCode Patch ###
+# Ignore all local history of files
+.history
