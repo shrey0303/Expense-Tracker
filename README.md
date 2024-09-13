@@ -33,7 +33,7 @@ This will run the model selection program on a single file (preformatted.csv)
 This will run the the finance predictor program on a single file (preformatted.csv)
 Note: this file is still unstable, and will likely not work with other transactions files because of some hard-coded values.
 
-#### Using the Czech Bank data
+#### Using the Bank data
 1. From the terminal at the root of this project directory, run `pipenv shell`
 2. Navigate to the `src/` folder: `cd src`
 3. Split the dataset into a folder of datastes `python  split_dataset.py ../datasets/trans.asc`
