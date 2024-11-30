@@ -74,7 +74,7 @@ Data descriptions can be accessed [here](https://web.archive.org/web/20161019192
 # Points that could be improved
 + Inflation is not accounted for
 + Since there may be lots of transactions on one day, and then a long break, it might make more sense to calculate the area between the predicted, and a line joining every test example.
-+ More improvements related to the models themselves are listed in the project report in the `docs/` folder.
+
 
 
 ---
