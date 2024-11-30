@@ -62,13 +62,9 @@ If you wish to **validate my results**, follow these steps:
     This will create a trans_split/ directory containing one file per account's transactions under the datasets folder.
 2. Run `model_selection.py` on the new generated file
     from the root of the repository, run `pipenv run python src/model_selection.py datasets/trans_split/`
-    This process will take several minutes. Be patient.
+    This process will take several minutes.
 
 
-## Training set for the regressions
-The `trans.asc` file used was obtained from [here](https://github.com/awesomedata/awesome-public-datasets/issues/234)
-
-Data descriptions can be accessed [here](https://web.archive.org/web/20161019192412/http://lisp.vse.cz/pkdd99/berka.htm)
 
 
 # Points that could be improved
