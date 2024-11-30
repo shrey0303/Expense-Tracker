@@ -1,5 +1,5 @@
 # Project description
-The objective of this research project was to evaluate the feasibility of predicting an individual’s personal finances based on past results with a greater accuracy than a simple linear regression. This sort of result could, in practice, be used to help people predict their retirement date, which would in turn, help them assess if they are living within their means.
+The objective of this project was to evaluate the feasibility of predicting an individual’s personal finances based on past results with a greater accuracy than a simple linear regression. This sort of result could, in practice, be used to help people predict their retirement date, which would in turn, help them assess if they are living within their means.
 
 see the `docs/` folder for more details.
 
