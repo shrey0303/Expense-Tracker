@@ -54,7 +54,7 @@ Note: _I have provided some sample files under the datasets folder._
 
 # Results
 
-The results of this experiment are outlined in the research report in the `docs/` folder.
+
 
 If you wish to **validate my results**, follow these steps:
 1. Convert the trans.asc aggregate file into individual csv files for each transaction.
